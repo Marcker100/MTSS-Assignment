@@ -3,8 +3,10 @@
    
 ## COMPONENTI   
 Ryzen 5 5600          
-MSI PRO B760M-P DDR4 Micro ATX LGA1700 Motherboard   
-## PERIFERICHE   
-Logitech g203      
+MSI PRO B760M-P DDR4 Micro ATX LGA1700 Motherboard      
+   
+## PERIFERICHE      
+Logitech g203           
+Logitech G513 Carbon        
    
 Elettronica Padovana
